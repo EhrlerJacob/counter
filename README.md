@@ -1,0 +1,1 @@
+In this project I am using session to count to the number of views this file will have and print that to the HTML page. 

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    color: black;
+    background-color: peachpuff;
+    border: 5px solid black;
+    box-shadow: 5px 5px solid black;
+    margin: 10px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
